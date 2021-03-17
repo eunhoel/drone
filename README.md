@@ -100,6 +100,7 @@ Type : 22 x 12mm
 Outer diameter: 28.0 mm
 Height: 24.0 mm (Without Shaft)
 KV: 920kv
+Weight : 0.42 Pounds
 Fit for DJI Phantom F330 X525 F450 S500 F550 Quadcopter Multirotor
 Rotation direction: Left hand tread
 
@@ -107,5 +108,20 @@ https://www.amazon.com/Readytosky-Brushless-Motors-Phantom-Quadcopter/dp/B075DD1
 ```
 ### ESC 변속기
 #### 이거는 모터의 전원공급 규격과 동일한 규격이어야한다.
-무터 공급 전원이 4Cell인데 ESC의 공급전원이 3Cell이면 모터와 ESC간에 전원공급이 매칭되지 않기 때문에 사용 불가하다.
-UBEC와 BEC 타입이 
+모터 공급 전원이 4Cell인데 ESC의 공급전원이 3Cell이면 모터와 ESC간에 전원공급이 매칭되지 않기 때문에 사용 불가하다.
+UBEC와 BEC 타입이 있다
+
+브러시리스 모터 구동을 위한 장치이며 회전속도를 조절한다.
+##### 4in1은 보드 하나로 가능하다.
+
+Readytosky 30A ESC Opto 2-6S Brushless Speed Controller
+```
+Price : $ 35
+Cont. Current: 30A
+Max. Current: 40A
+BEC : No (OPTO ESC)
+Weight: 28.5g(with 3.5mm banana connectors)
+Li-ion/Li0poly:2-6S
+
+https://www.amazon.com/Readytosky-Brushless-Speed-Controller-Multicopter/dp/B07PZTB2MH/ref=pd_bxgy_img_2/144-8633988-1927730?_encoding=UTF8&pd_rd_i=B07PZTB2MH&pd_rd_r=e72be417-9eb3-4d40-aca1-7c467e5e0b8f&pd_rd_w=VW17t&pd_rd_wg=ocgNY&pf_rd_p=f325d01c-4658-4593-be83-3e12ca663f0e&pf_rd_r=BB5D4KR2GEV6XDVK559B&psc=1&refRID=BB5D4KR2GEV6XDVK559B
+```
